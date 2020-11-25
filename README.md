@@ -3,6 +3,16 @@
 ### Ресурс для отслеживания текущей мировой статистики по коронавирусу (Covid-19)
 ### Demo: https://co-vid.ru
 
+### Стек:
+
+- React / Redux
+- react-charts
+- material UI
+- axios
+- prop-types
+- mathdroid covid-19 api
+
+
 
 ### Для запуска:
 ``npm install`` 
