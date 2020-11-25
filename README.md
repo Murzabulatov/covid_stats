@@ -4,14 +4,21 @@
 ### Demo: https://co-vid.ru
 
 
-### Для запуска введите 
+### Для запуска:
 ``npm install`` 
-
+затем
 ``npm start`` 
 
-в корневой папке
 
-![]()
-![]()
-![]()
+## Общая статистика
+
+![](https://github.com/Murzabulatov/covid_stats/blob/main/Demo/1.png?raw=true)
+
+## Динамика по дням
+
+![](https://github.com/Murzabulatov/covid_stats/blob/main/Demo/2.png?raw=true)
+
+## Иноформация по регионам выбранной страны
+
+![](https://github.com/Murzabulatov/covid_stats/blob/main/Demo/3.png?raw=true)
  
